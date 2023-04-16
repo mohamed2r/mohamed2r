@@ -7,7 +7,7 @@
 	
 <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 100%></picture>
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 200px></picture>
 
 <br>
 
@@ -15,7 +15,7 @@
 <picture><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamed2r&theme=default"></picture> 
 
 <picture > <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohamed2r&theme=default"></picture>
-<br>
+
 <picture > <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohamed2r&theme=default" alt=""></picture>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed2r&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed2r" /> </p>
